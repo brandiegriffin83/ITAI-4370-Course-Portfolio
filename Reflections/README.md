@@ -1,3 +1,3 @@
-# Reflections
+# My Learning Journey in Telecommunications
 
-This folder contains reflections documenting my learning journey throughout the course.
+Looking back at everything I completed in this course, I can honestly say that I learned much more than I expected. Each module introduced new concepts that built on the previous one, and over time I developed a much better understanding of how Artificial Intelligence is transforming modern telecommunications. From learning the basics of communication systems to exploring 5G, Open RAN, edge computing, cybersecurity, and future 6G technologies, I gained knowledge and hands-on experience that I know will benefit me as I continue my education and future career.
