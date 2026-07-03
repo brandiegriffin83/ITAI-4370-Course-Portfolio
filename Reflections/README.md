@@ -1,3 +1,0 @@
-# My Learning Journey in Telecommunications
-
-Looking back at everything I completed in this course, I can honestly say that I learned much more than I expected. Each module introduced new concepts that built on the previous one, allowing me to develop a much deeper understanding of how Artificial Intelligence is transforming modern telecommunications. From learning the fundamentals of communication systems to exploring 5G, Open RAN, edge computing, cybersecurity, sustainable AI, and future 6G technologies, this course gave me both the knowledge and hands-on experience that will benefit me as I continue my education and work toward a career in Artificial Intelligence and technology.
