@@ -63,41 +63,29 @@ Each module strengthened my understanding of how Artificial Intelligence is tran
 
 # Portfolio Navigation
 
-## Module 1
-Telecommunications Fundamentals
+- [Module 1 – Telecommunications Fundamentals](Module-01-Telecommunications-Fundamentals)
 
-## Module 2
-Network Architecture and Wireless Basics
+- [Module 2 – Network Architecture and Wireless Basics](Module-02-Network-Architecture-and-Wireless-Basics)
 
-## Module 3
-Artificial Intelligence and Machine Learning Fundamentals
+- [Module 3 – AI and Machine Learning Fundamentals](Module-03-AI-and-Machine-Learning-Fundamentals)
 
-## Module 4
-5G Network Architecture and AI Integration
+- [Module 4 – 5G Network Architecture and AI Integration](Module-04-5G-Network-Architecture-and-AI-Integration)
 
-## Module 5
-Open RAN (ORAN) and AI-Driven Networks
+- [Module 5 – Open RAN and AI-Driven Networks](Module-05-Open-RAN-and-AI-Driven-Networks)
 
-## Module 6
-AI for Network Optimization and Management
+- [Module 6 – AI for Network Optimization and Management](Module-06-AI-for-Network-Optimization-and-Management)
 
-## Module 7
-IoT and Edge Computing with AI
+- [Module 7 – IoT and Edge Computing with AI](Module-07-IoT-and-Edge-Computing-with-AI)
 
-## Module 8
-Cybersecurity and AI in Telecommunications
+- [Module 8 – Cybersecurity and AI in Telecommunications](Module-08-Cybersecurity-and-AI-in-Telecommunications)
 
-## Module 9
-Sustainable AI and Green Communications
+- [Module 9 – Sustainable AI and Green Communications](Module-09-Sustainable-AI-and-Green-Communications)
 
-## Module 10
-Advanced AI Applications in Next-Generation Networks
+- [Module 10 – Advanced AI Applications in Next-Generation Networks](Module-10-Advanced-AI-Applications-in-Next-Generation-Networks)
 
-## Module 11
-6G Vision and AI-Native Networks
+- [Module 11 – 6G Vision and AI-Native Networks](Module-11-6G-Vision-and-AI-Native-Networks)
 
-## Module 13
-Ethical AI and Future Trends
+- [Module 13 – Ethical AI and Future Trends](Module-13-Ethical-AI-and-Future-Trends)
 
 ---
 
