@@ -2,7 +2,7 @@
 
 ## Overview
 
-Module 4 focused on the integration of Artificial Intelligence into 5G network architecture. Through the course materials and research articles, I explored how AI enhances network performance by improving load balancing, resource allocation, automation, and intelligent decision-making. This module demonstrated how AI supports the growing demands of next-generation communication systems.
+Module 4 focused on the integration of Artificial Intelligence within 5G network architecture. Through lectures, technical readings, and research articles, I explored how AI improves network performance by supporting intelligent load balancing, resource allocation, automation, and decision making. This module helped me understand how AI technologies are becoming essential components of next-generation wireless communication systems.
 
 ---
 
@@ -10,12 +10,11 @@ Module 4 focused on the integration of Artificial Intelligence into 5G network a
 
 After completing this module, I was able to:
 
-- Explain the architecture of 5G networks.
-- Describe how Artificial Intelligence supports 5G communications.
+- Explain the architecture of 5G communication networks.
+- Describe how Artificial Intelligence improves 5G performance.
 - Understand AI-driven load balancing.
-- Explain virtualization within 5G environments.
-- Analyze research involving AI and next-generation communication networks.
-- Recognize the benefits and challenges of AI integration.
+- Explain network virtualization.
+- Analyze current research related to AI and 5G integration.
 
 ---
 
@@ -28,11 +27,13 @@ After completing this module, I was able to:
 
 ---
 
-# Module Activities
+# Module Summary
 
-This module focused on understanding how Artificial Intelligence enhances modern 5G network architecture through research, technical analysis, and real-world applications. I examined how AI improves network efficiency by supporting intelligent load balancing, virtualization, automation, and dynamic resource management.
+This module introduced how Artificial Intelligence supports modern 5G communication networks. Through the assigned readings and class materials, I learned how AI improves network efficiency by automating resource allocation, balancing network traffic, and optimizing communication performance. I also explored how virtualization and intelligent network management contribute to faster, more reliable wireless communication systems.
 
-### Skills Demonstrated
+---
+
+# Skills Developed
 
 - 5G Network Architecture
 - Artificial Intelligence Integration
@@ -43,38 +44,17 @@ This module focused on understanding how Artificial Intelligence enhances modern
 
 ---
 
-# Research Highlights
-
-During this module, I reviewed current research discussing how AI is transforming 5G communication networks. The articles demonstrated how machine learning improves network optimization, supports smart infrastructure, and enables intelligent resource allocation for increasingly complex wireless environments.
-
----
-
 # What I Learned
 
-This module expanded my understanding of how Artificial Intelligence is integrated into modern 5G communication systems. I learned that AI is no longer simply an enhancement but an essential component of intelligent network management. Through the assigned readings, I gained insight into AI-driven load balancing, virtualization, and automation techniques that improve network performance while supporting the growing demands of connected devices and smart technologies.
+This module helped me understand that Artificial Intelligence is no longer simply an enhancement for communication networks but a core technology that enables intelligent decision making and automation. I learned how AI supports dynamic resource management, improves network performance, and prepares communication systems to meet the increasing demands of modern wireless technologies.
 
 ---
 
 # Key Takeaways
 
-- Artificial Intelligence improves 5G network performance.
-- AI enables intelligent load balancing and resource allocation.
-- Virtualization increases network flexibility and scalability.
-- Smart infrastructure depends on AI-driven decision-making.
-- Research plays an important role in advancing next-generation communication technologies.
-
----
-
-# Module Artifacts
-
-## Course Resources
-
-📄 Module 4 Presentation
-
-📄 Hands-On Exercise
-
-📄 AI-Driven Load Balancing in Paravirtualized 5G Networks
-
-📄 Integrating Artificial Intelligence, Internet of Things, and 5G for Next-Generation Smart Grids
+- AI improves the efficiency of 5G networks.
+- Intelligent load balancing helps optimize network resources.
+- Virtualization increases flexibility and scalability.
+- Research supports continued innovation in AI-driven communications.
 
 ---
