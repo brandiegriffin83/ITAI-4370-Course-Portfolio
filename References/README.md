@@ -1,19 +1,23 @@
 # References
 
-3rd Generation Partnership Project. (2024). *Technical specification group radio access network (RAN).* https://www.3gpp.org
+O-RAN Alliance. (n.d.). *O-RAN specifications.* https://www.o-ran.org/specifications
 
-Cisco Systems. (2024). *5G network architecture.* https://www.cisco.com
+Polese, M., Bonati, L., D'Oro, S., Basagni, S., & Melodia, T. (2022). *Understanding O-RAN: Architecture, interfaces, algorithms, security, and research challenges.* arXiv. https://arxiv.org/abs/2202.01032
 
-Ericsson. (2024). *5G and Artificial Intelligence.* https://www.ericsson.com
+Red Hat. (2022, December 21). *What is Open RAN?* https://www.redhat.com/en/topics/5g/what-is-open-ran
 
-European Commission. (2024). *Artificial Intelligence Act.* https://artificial-intelligence-act.eu
+Scikit-learn Developers. (2025). *RandomForestRegressor.* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
 
-Institute of Electrical and Electronics Engineers. (2021). *Ethically aligned design: A vision for prioritizing human well-being with autonomous and intelligent systems.* https://standards.ieee.org
+Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., & Duchesnay, E. (2011). *Scikit-learn: Machine learning in Python.* *Journal of Machine Learning Research, 12*, 2825–2830.
 
-NVIDIA Corporation. (2024). *NVIDIA Build.* https://build.nvidia.com
+Pandas Development Team. (2025). *Pandas documentation.* https://pandas.pydata.org/docs/
 
-Open RAN Alliance. (2024). *O-RAN Alliance.* https://www.o-ran.org
+NumPy Developers. (2025). *NumPy documentation.* https://numpy.org/doc/
 
-Organisation for Economic Co-operation and Development. (2019). *OECD Principles on Artificial Intelligence.* https://oecd.ai
+Matplotlib Development Team. (2025). *Matplotlib documentation.* https://matplotlib.org/stable/contents.html
 
-UNESCO. (2021). *Recommendation on the Ethics of Artificial Intelligence.* https://www.unesco.org/en/artificial-intelligence/recommendation-ethics
+IEEE. (2019). *Ethically aligned design: A vision for prioritizing human well-being with autonomous and intelligent systems.* https://standards.ieee.org
+
+Organisation for Economic Co-operation and Development. (2019). *OECD AI Principles.* https://oecd.ai
+
+UNESCO. (2021). *Recommendation on the ethics of artificial intelligence.* https://www.unesco.org/en/artificial-intelligence/recommendation-ethics
