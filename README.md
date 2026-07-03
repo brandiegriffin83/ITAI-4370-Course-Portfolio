@@ -63,30 +63,43 @@ Each module strengthened my understanding of how Artificial Intelligence is tran
 
 # Portfolio Navigation
 
-- [Module 1 – Telecommunications Fundamentals](Module-01-Telecommunications-Fundamentals)
+## Course Modules
 
-- [Module 2 – Network Architecture and Wireless Basics](Module-02-Network-Architecture-and-Wireless-Basics)
+- [Module 1 – Telecommunications Fundamentals](Modules/Module-01-Telecommunications-Fundamentals)
 
-- [Module 3 – AI and Machine Learning Fundamentals](Module-03-AI-and-Machine-Learning-Fundamentals)
+- [Module 2 – Network Architecture and Wireless Basics](Modules/Module-02-Network-Architecture-and-Wireless-Basics)
 
-- [Module 4 – 5G Network Architecture and AI Integration](Module-04-5G-Network-Architecture-and-AI-Integration)
+- [Module 3 – AI and Machine Learning Fundamentals for Telecommunications](Modules/Module-03-AI-and-Machine-Learning-Fundamentals-for-Telecommunications)
 
-- [Module 5 – Open RAN and AI-Driven Networks](Module-05-Open-RAN-and-AI-Driven-Networks)
+- [Module 4 – 5G Network Architecture and AI Integration](Modules/Module-04-5G-Network-Architecture-and-AI-Integration)
 
-- [Module 6 – AI for Network Optimization and Management](Module-06-AI-for-Network-Optimization-and-Management)
+- [Module 5 – Open RAN (ORAN) and AI-Driven Networks](Modules/Module-05-Open-RAN-and-AI-Driven-Networks)
 
-- [Module 7 – IoT and Edge Computing with AI](Module-07-IoT-and-Edge-Computing-with-AI)
+- [Module 6 – AI for Network Optimization and Management](Modules/Module-06-AI-for-Network-Optimization-and-Management)
 
-- [Module 8 – Cybersecurity and AI in Telecommunications](Module-08-Cybersecurity-and-AI-in-Telecommunications)
+- [Module 7 – IoT and Edge Computing with AI](Modules/Module-07-IoT-and-Edge-Computing-with-AI)
 
-- [Module 9 – Sustainable AI and Green Communications](Module-09-Sustainable-AI-and-Green-Communications)
+- [Module 8 – Cybersecurity and AI in Telecommunications](Modules/Module-08-Cybersecurity-and-AI-in-Telecommunications)
 
-- [Module 10 – Advanced AI Applications in Next-Generation Networks](Module-10-Advanced-AI-Applications-in-Next-Generation-Networks)
+- [Module 9 – Sustainable AI and Green Communications](Modules/Module-09-Sustainable-AI-and-Green-Communications)
 
-- [Module 11 – 6G Vision and AI-Native Networks](Module-11-6G-Vision-and-AI-Native-Networks)
+- [Module 10 – Advanced AI Applications in Next-Generation Networks](Modules/Module-10-Advanced-AI-Applications-in-Next-Generation-Networks)
 
-- [Module 13 – Ethical AI and Future Trends](Module-13-Ethical-AI-and-Future-Trends)
+- [Module 11 – 6G Vision and AI-Native Networks](Modules/Module-11-6G-Vision-and-AI-Native-Networks)
 
+- [Module 13 – Ethical AI and Future Trends](Modules/Module-13-Ethical-AI-and-Future-Trends)
+
+- [Module 14 – Course Review and Final Project](Modules/Module-14-Course-Review-and-Final-Project)
+
+---
+
+## Additional Portfolio Sections
+
+- [Projects](Projects)
+
+- [Reflections](Reflections)
+
+- [References](References)
 ---
 
 # Skills Developed
