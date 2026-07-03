@@ -66,8 +66,16 @@ This module provided the foundation for the rest of the course. Before completin
 
 # Module Artifacts
 
-- Assignment 01
-- Laboratory 01
-- Communication System Diagram
-- Python Signal Flow Simulation
-- Signal Flow Graph
+## Assignment
+
+- 📄 [Assignment 01 – Telecommunications Systems](A01%20_BRANDY%20GRIFFIN_4370_ITAI%20(1).docx)
+
+## Laboratory
+
+- 📄 [Laboratory 01 Report](LABORATORY%2001.docx)
+
+- 💻 [Laboratory 01 Python Notebook (PDF)](Laboratory_01_Communication_System%20-%20Colab(5).pdf)
+
+---
+
+These artifacts demonstrate my understanding of telecommunications fundamentals, communication systems, signal flow analysis, and Python-based communication modeling.
