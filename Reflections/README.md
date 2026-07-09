@@ -4,7 +4,14 @@ This folder contains my personal reflections on what I learned throughout ITAI 4
 
 The reflections describe how my understanding of telecommunications evolved during the course, how I applied Artificial Intelligence concepts through assignments and laboratory activities, the skills I developed, and the areas where I hope to continue growing professionally.
 
+---
+
 ## Reflection Files
 
-- Reflection 1 – My Learning Journey in Telecommunications
-- Reflection 2 – Applying Artificial Intelligence to Telecommunications
+- [Reflection 1 – My Learning Journey in Telecommunications](Reflection-01-My-Learning-Journey-in-Telecommunications.md)
+
+- [Reflection 2 – Applying Artificial Intelligence to Telecommunications](Reflection-02-Applying-AI-to-Telecommunications.md)
+
+---
+
+These reflections provide a personal perspective on my learning experience and demonstrate how my knowledge and technical skills developed throughout the semester.
