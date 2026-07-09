@@ -15,7 +15,7 @@
 
 Welcome to my ITAI 4370 Course Portfolio.
 
-This portfolio documents my learning journey throughout the AI for 5G/6G Communications and Open RAN course at Houston Community College. Throughout this course, I explored how artificial intelligence is transforming modern telecommunications through technologies such as 5G, Open RAN, machine learning, edge computing, cybersecurity, and intelligent network optimization.
+This portfolio documents my learning journey throughout ITAI 4370: AI for 5G/6G Communications and Open RAN at Houston City College. Throughout the semester, I explored how Artificial Intelligence is transforming modern telecommunications through technologies such as 5G, Open RAN, machine learning, edge computing, cybersecurity, and intelligent network optimization.
 
 The portfolio highlights my assignments, laboratory exercises, projects, reflections, and technical skills developed throughout the semester. It demonstrates my progression from understanding basic telecommunications concepts to applying artificial intelligence techniques to solve real-world networking problems.
 
@@ -23,29 +23,29 @@ The portfolio highlights my assignments, laboratory exercises, projects, reflect
 
 # Course Overview
 
-This course introduced the principles of modern telecommunications while emphasizing the growing role of Artificial Intelligence in designing, managing, and optimizing next-generation communication networks.
+This course introduced the principles of modern telecommunications while demonstrating how Artificial Intelligence is being used to design, manage, secure, and optimize next-generation communication networks. Through lectures, assignments, laboratories, and hands-on programming activities, I gained practical experience applying AI techniques to solve telecommunications-related problems.
 
 Topics explored throughout the semester included:
 
-- Telecommunications Fundamentals
-- Network Architecture and Wireless Communications
-- Artificial Intelligence and Machine Learning
-- 5G Network Architecture
-- Open RAN (ORAN)
-- AI-Based Network Optimization
-- Internet of Things (IoT)
-- Edge Computing
-- Cybersecurity
-- Sustainable AI
-- Advanced AI Applications
-- 6G Vision
-- Ethical Artificial Intelligence
+- Module 1 – Telecommunications Fundamentals
+- Module 2 – Network Architecture and Wireless Basics
+- Module 3 – AI and Machine Learning Fundamentals for Telecommunications
+- Module 4 – 5G Network Architecture and AI Integration
+- Module 5 – Open RAN (ORAN) and AI-Driven Networks
+- Module 6 – AI for Network Optimization and Management
+- Module 7 – IoT and Edge Computing with AI
+- Module 8 – Cybersecurity and AI in Telecommunications
+- Module 9 – Sustainable AI and Green Communications
+- Module 10 – Advanced AI Applications in Next-Generation Networks
+- Module 11 – 6G Vision and AI-Native Networks
+- Module 13 – Ethical AI and Future Trends
+- Module 14 – Course Review and Final Project
 
 ---
 
 # Course Learning Journey
 
-Throughout this course I completed:
+Throughout the semester, I completed a variety of assignments, laboratory exercises, and projects that strengthened both my telecommunications knowledge and my technical skills, including:
 
 - Four major assignments
 - Five laboratory exercises
@@ -65,31 +65,19 @@ Each module strengthened my understanding of how Artificial Intelligence is tran
 
 ## Course Modules
 
-- [Module 1 – Telecommunications Fundamentals](Modules/Module-01-Telecommunications-Fundamentals)
-
-- [Module 2 – Network Architecture and Wireless Basics](Modules/Module-02-Network-Architecture-and-Wireless-Basics)
-
-- [Module 3 – AI and Machine Learning Fundamentals for Telecommunications](Modules/Module-03-AI-and-Machine-Learning-Fundamentals-for-Telecommunications)
-
-- [Module 4 – 5G Network Architecture and AI Integration](Modules/Module-04-5G-Network-Architecture-and-AI-Integration)
-
-- [Module 5 – Open RAN (ORAN) and AI-Driven Networks](Modules/Module-05-Open-RAN-and-AI-Driven-Networks)
-
-- [Module 6 – AI for Network Optimization and Management](Modules/Module-06-AI-for-Network-Optimization-and-Management)
-
-- [Module 7 – IoT and Edge Computing with AI](Modules/Module-07-IoT-and-Edge-Computing-with-AI)
-
-- [Module 8 – Cybersecurity and AI in Telecommunications](Modules/Module-08-Cybersecurity-and-AI-in-Telecommunications)
-
-- [Module 9 – Sustainable AI and Green Communications](Modules/Module-09-Sustainable-AI-and-Green-Communications)
-
-- [Module 10 – Advanced AI Applications in Next-Generation Networks](Modules/Module-10-Advanced-AI-Applications-in-Next-Generation-Networks)
-
-- [Module 11 – 6G Vision and AI-Native Networks](Modules/Module-11-6G-Vision-and-AI-Native-Networks)
-
-- [Module 13 – Ethical AI and Future Trends](Modules/Module-13-Ethical-AI-and-Future-Trends)
-
-- [Module 14 – Course Review and Final Project](Modules/Module-14-Course-Review-and-Final-Project)
+- Module 1 – Telecommunications Fundamentals
+- Module 2 – Network Architecture and Wireless Basics
+- Module 3 – AI and Machine Learning Fundamentals for Telecommunications
+- Module 4 – 5G Network Architecture and AI Integration
+- Module 5 – Open RAN (ORAN) and AI-Driven Networks
+- Module 6 – AI for Network Optimization and Management
+- Module 7 – IoT and Edge Computing with AI
+- Module 8 – Cybersecurity and AI in Telecommunications
+- Module 9 – Sustainable AI and Green Communications
+- Module 10 – Advanced AI Applications in Next-Generation Networks
+- Module 11 – 6G Vision and AI-Native Networks
+- Module 13 – Ethical AI and Future Trends
+- Module 14 – Course Review and Final Project
 
 ---
 
@@ -106,25 +94,24 @@ Each module strengthened my understanding of how Artificial Intelligence is tran
 
 Throughout this course I strengthened my knowledge and practical experience in:
 
-- Telecommunications Systems
-- Wireless Communications
-- 5G and Open RAN
-- Python Programming
-- Machine Learning
-- Artificial Intelligence
-- RF Propagation Modeling
-- Network Traffic Prediction
-- Edge Computing
-- AI Ethics
-- Technical Documentation
-- Data Visualization
+Artificial Intelligence
+Data Visualization
+Edge Computing
+Machine Learning
+Network Traffic Prediction
+Open RAN
+Python Programming
+RF Propagation Modeling
+Technical Documentation
+Telecommunications Systems
+Wireless Communications
+5G Networks
 
 ---
 
 # Final Reflection
 
-This portfolio represents the knowledge and technical skills I developed throughout ITAI 4370. Each assignment and laboratory exercise expanded my understanding of modern telecommunications while demonstrating how Artificial Intelligence can improve network performance, efficiency, reliability, and security. The course challenged me to apply theoretical concepts through hands-on simulations and machine learning projects that closely resemble real-world telecommunications applications.
-
+This portfolio represents the knowledge, technical skills, and hands-on experience I gained throughout ITAI 4370. Each assignment, laboratory exercise, and project helped me build a stronger understanding of modern telecommunications and the growing role of Artificial Intelligence in next-generation communication networks. Looking back over the semester, I can clearly see how my knowledge progressed from learning foundational concepts to applying AI techniques through programming, simulations, and real-world problem solving. The experience has strengthened my confidence and prepared me for more advanced studies and future opportunities in Artificial Intelligence and emerging technologies.
 ---
 
 Thank you for visiting my ITAI 4370 Course Portfolio.
