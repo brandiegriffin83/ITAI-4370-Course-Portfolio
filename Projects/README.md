@@ -2,7 +2,7 @@
 
 This folder highlights the major projects completed during ITAI 4370: AI for 5G/6G Communications and Open RAN.
 
-Rather than duplicating project files, this section provides quick access to the modules where each project is documented.
+Rather than duplicating project files throughout the repository, this section serves as a central location that highlights the major projects completed during the course and directs readers to the modules where each project is fully documented.
 
 ---
 
