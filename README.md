@@ -83,9 +83,7 @@ Each module strengthened my understanding of how Artificial Intelligence is tran
 ## Additional Portfolio Sections
 
 - [Projects](Projects)
-
 - [Reflections](Reflections)
-
 - [References](References)
 ---
 
