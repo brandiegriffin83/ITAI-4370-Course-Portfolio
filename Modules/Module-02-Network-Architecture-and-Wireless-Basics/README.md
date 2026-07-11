@@ -103,8 +103,9 @@ This module strengthened my understanding of how modern wireless communication n
 
 <img width="696" height="404" alt="image" src="https://github.com/user-attachments/assets/1610aebf-fff6-4f1d-b3c2-db0ba97b7282" />
 
+This visualization confirms that RF signal strength decreases as transmission distance increases, reinforcing one of the fundamental principles of wireless communication and RF propagation.
 
-*Figure 1. Free-Space Path Loss (FSPL) modeled at 2.4 GHz using Python. The graph illustrates how signal attenuation increases as transmission distance grows.*
+**Figure 1.** Free-Space Path Loss (FSPL) modeled at 2.4 GHz using Python. The graph illustrates how signal attenuation increases as transmission distance grows.
 
 ---
 
