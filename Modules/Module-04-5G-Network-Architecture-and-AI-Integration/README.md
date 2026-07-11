@@ -6,7 +6,7 @@ Module 4 focused on the integration of Artificial Intelligence within 5G network
 
 ---
 
-# Learning Objectives
+## Learning Objectives
 
 After completing this module, I was able to:
 
@@ -18,7 +18,7 @@ After completing this module, I was able to:
 
 ---
 
-# Course Materials
+## Course Materials
 
 - Module 4 Presentation
 - Hands-On Exercise
@@ -27,13 +27,13 @@ After completing this module, I was able to:
 
 ---
 
-# Module Summary
+## Module Summary
 
 This module introduced how Artificial Intelligence supports modern 5G communication networks. Through the assigned readings and class materials, I learned how AI improves network efficiency by automating resource allocation, balancing network traffic, and optimizing communication performance. I also explored how virtualization and intelligent network management contribute to faster, more reliable wireless communication systems.
 
 ---
 
-# Skills Developed
+## Skills Developed
 
 - 5G Network Architecture
 - Artificial Intelligence Integration
@@ -44,17 +44,24 @@ This module introduced how Artificial Intelligence supports modern 5G communicat
 
 ---
 
-# What I Learned
+## What I Learned
 
 This module helped me understand that Artificial Intelligence is no longer simply an enhancement for communication networks but a core technology that enables intelligent decision making and automation. I learned how AI supports dynamic resource management, improves network performance, and prepares communication systems to meet the increasing demands of modern wireless technologies.
 
 ---
 
-# Key Takeaways
+## Key Takeaways
 
-- AI improves the efficiency of 5G networks.
+- Artificial Intelligence improves the efficiency of 5G networks.
 - Intelligent load balancing helps optimize network resources.
-- Virtualization increases flexibility and scalability.
-- Research supports continued innovation in AI-driven communications.
+- Network virtualization increases flexibility and scalability.
+- Artificial Intelligence supports automated resource allocation and decision making.
+- Research continues to drive innovation in AI-powered communication networks.
 
 ---
+
+## Additional Resource
+
+**3GPP.** *5G System Overview.*
+
+https://www.3gpp.org/technologies/5g-system-overview
