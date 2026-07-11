@@ -6,7 +6,7 @@ Module 11 introduced the vision for sixth-generation (6G) communication networks
 
 ---
 
-# Learning Objectives
+## Learning Objectives
 
 After completing this module, I was able to:
 
@@ -18,26 +18,37 @@ After completing this module, I was able to:
 
 ---
 
-# Course Materials
+## Course Materials
 
 - Module 11 Presentation
 - Module 11 Quiz
 
 ---
 
-# Module Summary
+## Module Summary
 
-This module explored the future of wireless communications by introducing AI-native networks and the expected capabilities of 6G technologies. I learned how Artificial Intelligence will become fully integrated into future communication systems, allowing networks to automatically optimize performance, improve reliability, and support new applications that require faster speeds and lower latency.
+This module explored the future of wireless communications by introducing AI-native networks and the expected capabilities of 6G technologies. I learned how Artificial Intelligence will become fully integrated into future communication systems, allowing networks to automatically optimize performance, improve reliability, and support new applications that require faster speeds, lower latency, and greater connectivity than current 5G networks.
+
+I also explored several emerging technologies expected to play important roles in future communication systems, including:
+
+- Terahertz Communications
+- Reconfigurable Intelligent Surfaces (RIS)
+- Federated Learning
+- Digital Twin Networks
+- Intent-Based Networking
+- Direct-to-Device Satellite Communications
 
 ---
 
-# Quiz
+## Quiz
 
-## Module 11 Knowledge Assessment
+### Module 11 Knowledge Assessment
 
-The Module 11 quiz evaluated my understanding of 6G concepts, AI-native networks, and the future direction of wireless communications. Completing the quiz reinforced the knowledge gained from the course materials and demonstrated my understanding of emerging communication technologies.
+The Module 11 Quiz evaluated my understanding of 6G concepts, AI-native networks, and the future direction of wireless communications. Completing the quiz reinforced the knowledge gained from the course materials and demonstrated my understanding of emerging communication technologies.
 
-### Skills Demonstrated
+---
+
+## Skills Developed
 
 - Understanding of 6G Networks
 - AI-Native Network Concepts
@@ -47,28 +58,27 @@ The Module 11 quiz evaluated my understanding of 6G concepts, AI-native networks
 
 ---
 
-# What I Learned
+## What I Learned
 
-This module helped me understand that future communication networks will rely heavily on Artificial Intelligence to manage increasingly complex environments. I learned that 6G networks are expected to provide greater speed, lower latency, and more intelligent network automation than current 5G systems. The quiz reinforced my understanding of these concepts and highlighted the growing importance of AI in future telecommunications.
+This module expanded my understanding of how communication technologies will continue to evolve beyond 5G. I learned that 6G networks are expected to integrate Artificial Intelligence into nearly every layer of the network, enabling faster decision making, intelligent automation, and more efficient resource management. I also gained a better appreciation for emerging technologies such as Digital Twin Networks, Federated Learning, Terahertz communications, Reconfigurable Intelligent Surfaces (RIS), Intent-Based Networking, and Direct-to-Device satellite communications, which are expected to shape the future of global connectivity.
 
 ---
 
-# Key Takeaways
+## Key Takeaways
 
 - 6G will build upon the capabilities introduced by 5G.
-- Artificial Intelligence will become a native component of future networks.
-- Intelligent automation will improve network efficiency and reliability.
-- Emerging technologies will support new communication services.
-- Continuous learning is essential as telecommunications continue to evolve.
+- Artificial Intelligence will become a native component of future communication networks.
+- Intelligent automation will improve network efficiency, reliability, and scalability.
+- Emerging technologies such as Terahertz communications, RIS, Federated Learning, and Digital Twin Networks will shape the future of wireless communications.
+- Continuous learning is essential as telecommunications technologies continue to evolve.
 
 ---
 
-# Module Artifacts
+## Module Artifacts
 
-## Quiz
+### Quiz
 
-📄 **Module 11 Quiz**
+- Module 11 Quiz
+- Module 11 Presentation Notes
 
-- Demonstrates my understanding of AI-native networking concepts, 6G technologies, and the future of intelligent communication systems.
-
----
+The Module 11 Quiz demonstrated my understanding of AI-native networking concepts, 6G technologies, and the future direction of intelligent communication systems.
