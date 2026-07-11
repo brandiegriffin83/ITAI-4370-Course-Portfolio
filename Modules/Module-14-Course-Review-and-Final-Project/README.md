@@ -2,20 +2,31 @@
 
 ## Overview
 
-Module 14 represents the final stage of the course and brings together the major concepts learned throughout ITAI 4370. This module focuses on reviewing telecommunications fundamentals, 5G and 6G concepts, Open RAN, Artificial Intelligence, edge computing, cybersecurity, sustainability, and ethical AI. The Capstone Project serves as the final portfolio submission and demonstrates my overall learning progress throughout the course.
+Module 14 represents the final stage of ITAI 4370 and brings together the major concepts learned throughout the course. This module focuses on reviewing telecommunications fundamentals, 5G and 6G technologies, Open RAN, Artificial Intelligence, edge computing, cybersecurity, sustainability, and ethical AI. The Capstone Project serves as the final portfolio submission and demonstrates my learning journey, technical growth, and practical experience gained throughout the semester.
 
 ---
 
-# Learning Objectives
+## Learning Objectives
 
 After completing this module, I was able to:
 
-- Review major concepts from the entire course.
-- Connect telecommunications fundamentals to advanced AI applications.
-- Organize course artifacts into a final portfolio.
+- Review the major concepts covered throughout the course.
+- Connect telecommunications fundamentals with advanced Artificial Intelligence applications.
+- Organize assignments, laboratory exercises, and projects into a professional portfolio.
 - Reflect on my growth throughout the semester.
 - Demonstrate progression from basic networking concepts to AI-driven telecommunications.
-- Present my learning in a professional format.
+- Present technical work in a clear and professional format.
+
+---
+
+## Course Materials
+
+- Module 14 Presentation
+- Final Exam Portfolio
+- GitHub Course Portfolio
+- Course Assignments
+- Laboratory Exercises
+- Reflections
 
 ---
 
@@ -23,44 +34,84 @@ After completing this module, I was able to:
 
 ## Final Exam Portfolio
 
-### Description
+### Problem Statement
 
-The Capstone Project is the final portfolio for the course. It documents my activities, results, and learning outcomes from each module. The portfolio includes assignments, laboratory exercises, tables, graphs, screenshots, reflections, and references that demonstrate my understanding of AI applications in 5G, 6G, and Open RAN networks.
+The objective of the Capstone Project was to develop a comprehensive portfolio documenting my learning journey throughout ITAI 4370. The portfolio demonstrates the knowledge, technical skills, assignments, laboratory exercises, reflections, and projects completed during the course while highlighting my progression from telecommunications fundamentals to advanced Artificial Intelligence applications.
 
-### Skills Demonstrated
+---
 
+## Methods and Tools Used
+
+- GitHub
+- Microsoft Word
+- Google Colab
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- TensorFlow
+- Scikit-learn
+- Technical Research
 - Technical Documentation
-- Telecommunications Analysis
+
+---
+
+## Description
+
+The Capstone Project combines all of the work completed throughout the semester into one organized portfolio. It includes assignments, laboratory exercises, Python programming projects, machine learning models, technical research, reflections, graphs, screenshots, references, and supporting documentation. The portfolio demonstrates both the technical knowledge and practical skills developed while studying Artificial Intelligence for 5G, 6G, and Open RAN communication networks.
+
+---
+
+## Results
+
+Completing the Capstone Project allowed me to review everything I learned throughout the course and organize my work into a professional portfolio. Looking back across each module made it easy to see how my understanding grew from learning basic telecommunications concepts to applying Artificial Intelligence, machine learning, network optimization, edge computing, cybersecurity, and ethical AI to real-world communication systems. The completed portfolio also serves as a record of my technical skills and accomplishments throughout the semester.
+
+---
+
+## Skills Demonstrated
+
 - Artificial Intelligence
+- Machine Learning
+- Telecommunications
+- Python Programming
+- Data Visualization
+- Network Optimization
+- Open RAN
+- Edge Computing
+- Cybersecurity
+- Technical Research
+- Technical Documentation
 - Portfolio Development
-- Reflection and Evaluation
-- Professional Organization
+- Professional Communication
 
 ---
 
-# What I Learned
+## What I Learned
 
-This final module helped me review and organize everything I learned throughout the course. By creating the Capstone Project and Course Portfolio, I was able to see my progression from basic telecommunications concepts to more advanced topics such as AI-based network optimization, Open RAN, edge computing, cybersecurity, sustainable AI, 6G, and ethical AI. This process helped me better understand how all of the course topics connect together.
-
----
-
-# Key Takeaways
-
-- The course built from basic telecommunications concepts to advanced AI applications.
-- AI plays an important role in future wireless networks.
-- Open RAN supports flexible and intelligent network architecture.
-- Edge computing improves performance by reducing latency.
-- Ethical AI is necessary for responsible technology development.
-- The portfolio demonstrates growth, progress, and applied learning.
+Creating the Final Exam Portfolio gave me the opportunity to reflect on everything I accomplished throughout the course. Each module built on the previous one, allowing me to gradually strengthen my understanding of telecommunications and Artificial Intelligence. I became more confident using Python, interpreting data visualizations, researching emerging technologies, and explaining complex networking concepts. Looking back at all of my assignments and laboratory exercises helped me appreciate how much I had learned over the semester and how those experiences prepared me for more advanced studies in Artificial Intelligence.
 
 ---
 
-# Module Artifacts
+## Module Artifacts
 
-## Capstone Project
+### Capstone Project
 
-📄 **Final Exam Portfolio**
-
-- Demonstrates my complete learning journey throughout ITAI 4370, including assignments, laboratories, reflections, technical skills, and course outcomes.
+- Final Exam Portfolio
+- GitHub Course Portfolio
+- Assignment Reports
+- Laboratory Reports
+- Python Source Code
+- Graphs and Data Visualizations
+- Reflection Essays
+- Reference List
 
 ---
+
+## Key Takeaways
+
+- The course progressed from telecommunications fundamentals to advanced Artificial Intelligence applications.
+- Artificial Intelligence is transforming modern and future communication networks.
+- Python and machine learning provide practical solutions for network analysis and optimization.
+- Open RAN, Edge Computing, Cybersecurity, Sustainable AI, and Ethical AI are essential components of next-generation communication systems.
+- Building a professional portfolio demonstrates both technical knowledge and personal growth.
+- The Capstone Project reflects my learning journey and prepares me for future opportunities in Artificial Intelligence and telecommunications.
