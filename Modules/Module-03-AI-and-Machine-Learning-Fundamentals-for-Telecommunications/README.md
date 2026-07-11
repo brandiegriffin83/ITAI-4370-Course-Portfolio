@@ -109,13 +109,11 @@ This module showed me how Artificial Intelligence can solve real-world telecommu
 
 ## Figures
 
-![Network Traffic Pattern and Average Traffic]
 <img width="742" height="197" alt="image" src="https://github.com/user-attachments/assets/ba45a971-3af7-49ed-b211-b43c44d0624e" />
 
 
 **Figure 1.** Network traffic pattern over one week and average network traffic by hour generated using Python.
 
-![Prediction Results and Feature Importance]
 <img width="733" height="154" alt="image" src="https://github.com/user-attachments/assets/48884454-3a7c-43c1-83b2-55648f9805d9" />
 
 
