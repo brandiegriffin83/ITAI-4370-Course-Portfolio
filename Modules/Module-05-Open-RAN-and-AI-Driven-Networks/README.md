@@ -6,7 +6,7 @@ Module 5 introduced Open Radio Access Networks (Open RAN) and how Artificial Int
 
 ---
 
-# Learning Objectives
+## Learning Objectives
 
 After completing this module, I was able to:
 
@@ -19,7 +19,7 @@ After completing this module, I was able to:
 
 ---
 
-# Course Materials
+## Course Materials
 
 - Module 5 Presentation
 - Advancements in Mobile Edge Computing
@@ -27,13 +27,13 @@ After completing this module, I was able to:
 
 ---
 
-# Module Summary
+## Module Summary
 
 This module focused on how Open RAN creates a more flexible and intelligent wireless network architecture. I explored how Artificial Intelligence improves network automation, resource allocation, and overall network efficiency while supporting vendor interoperability. I also learned how Mobile Edge Computing reduces latency by processing information closer to users, improving performance for real-time applications.
 
 ---
 
-# Skills Developed
+## Skills Developed
 
 - Open RAN Architecture
 - Artificial Intelligence
@@ -44,13 +44,13 @@ This module focused on how Open RAN creates a more flexible and intelligent wire
 
 ---
 
-# What I Learned
+## What I Learned
 
 This module expanded my understanding of how Open RAN is changing modern telecommunications by replacing traditional closed systems with open, flexible architectures. I learned that Artificial Intelligence continuously monitors network performance, automatically allocates resources, and improves network efficiency. I also discovered how Mobile Edge Computing enhances communication by reducing latency and supporting faster data processing for next-generation applications.
 
 ---
 
-# Key Takeaways
+## Key Takeaways
 
 - Open RAN promotes open and interoperable network architecture.
 - Artificial Intelligence improves network automation and optimization.
@@ -59,3 +59,11 @@ This module expanded my understanding of how Open RAN is changing modern telecom
 - Open RAN is an important technology for future 5G and 6G networks.
 
 ---
+
+## Additional Resources
+
+- **O-RAN Alliance.** *O-RAN Specifications.*  
+  https://www.o-ran.org/specifications
+
+- **Red Hat.** *What is Open RAN?*  
+  https://www.redhat.com/en/topics/5g/what-is-open-ran
