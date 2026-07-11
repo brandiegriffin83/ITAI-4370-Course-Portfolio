@@ -117,7 +117,7 @@ This module showed me how Artificial Intelligence can solve real-world telecommu
 <img width="733" height="154" alt="image" src="https://github.com/user-attachments/assets/48884454-3a7c-43c1-83b2-55648f9805d9" />
 
 
-**Figure 2.** Random Forest Regression prediction results compared with actual network traffic and feature importance analysis.
+**Figure 2.** Random Forest Regression model predictions compared with actual network traffic, along with feature importance analysis showing which variables contributed most to the model's predictions.
 
 ---
 
