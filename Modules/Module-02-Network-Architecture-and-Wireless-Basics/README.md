@@ -103,9 +103,8 @@ This module strengthened my understanding of how modern wireless communication n
 
 <img width="696" height="404" alt="image" src="https://github.com/user-attachments/assets/1610aebf-fff6-4f1d-b3c2-db0ba97b7282" />
 
-**Figure 1.** Free-Space Path Loss (FSPL) modeled at 2.4 GHz using Python. The graph illustrates how signal attenuation increases as transmission distance grows.
+**Figure 1.** Free-Space Path Loss (FSPL) modeled at 2.4 GHz using Python.
 
-> This visualization helped me better understand how RF signal strength decreases as transmission distance increases. Creating the graph in Python allowed me to see how Free-Space Path Loss affects wireless communication, reinforcing one of the fundamental principles of RF propagation and modern network design.
 ---
 
 ## Key Takeaways
