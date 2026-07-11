@@ -105,7 +105,7 @@ This module strengthened my understanding of how modern wireless communication n
 
 **Figure 1.** Free-Space Path Loss (FSPL) modeled at 2.4 GHz using Python.
 
----
+This visualization confirms that RF signal strength decreases as transmission distance increases, reinforcing one of the fundamental principles of wireless communication and RF propagation.
 
 ## Key Takeaways
 
