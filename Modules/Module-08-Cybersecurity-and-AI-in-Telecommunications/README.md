@@ -6,7 +6,7 @@ Module 8 introduced the role of cybersecurity in modern telecommunications and e
 
 ---
 
-# Learning Objectives
+## Learning Objectives
 
 After completing this module, I was able to:
 
@@ -18,19 +18,21 @@ After completing this module, I was able to:
 
 ---
 
-# Course Materials
+## Course Materials
 
 - Module 8 Presentation
+- Class Discussions
+- Additional Resource
 
 ---
 
-# Module Summary
+## Module Summary
 
 This module focused on protecting telecommunications networks from cyber threats using Artificial Intelligence. I learned how AI can continuously monitor network activity, identify suspicious behavior, and respond to threats more quickly than traditional security methods. The course also emphasized the growing importance of cybersecurity as communication networks become more connected and increasingly dependent on intelligent technologies.
 
 ---
 
-# Skills Developed
+## Skills Developed
 
 - Cybersecurity Fundamentals
 - Artificial Intelligence
@@ -41,18 +43,24 @@ This module focused on protecting telecommunications networks from cyber threats
 
 ---
 
-# What I Learned
+## What I Learned
 
-This module helped me understand that cybersecurity is an essential part of modern telecommunications. As communication networks continue to expand through 5G, IoT, and cloud technologies, protecting network infrastructure becomes increasingly important. Artificial Intelligence provides an additional layer of security by detecting threats in real time and helping organizations respond more effectively to cyber attacks.
+This module helped me understand that cybersecurity is an essential part of modern telecommunications. As communication networks continue to expand through 5G, IoT, edge computing, and cloud technologies, protecting network infrastructure becomes increasingly important. Artificial Intelligence provides an additional layer of security by detecting threats in real time and helping organizations respond more effectively to cyber attacks.
 
 ---
 
-# Key Takeaways
+## Key Takeaways
 
 - Cybersecurity is critical for protecting communication networks.
-- Artificial Intelligence improves threat detection.
+- Artificial Intelligence improves threat detection and network monitoring.
 - AI supports automated incident response.
-- Secure networks improve reliability and user trust.
+- Secure networks improve reliability, privacy, and user trust.
 - Cybersecurity will continue to play an important role in future communication systems.
 
 ---
+
+## Additional Resource
+
+**National Institute of Standards and Technology (NIST).** *Artificial Intelligence.*
+
+https://www.nist.gov/artificial-intelligence
